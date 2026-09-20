@@ -1,0 +1,26 @@
+[
+    {
+        "name": "khushant",
+        "age": 21,
+        "email": "khushant@gmail.com",
+        "pin": 2678,
+        "accountNo.": "14U!9nc",
+        "balance": 0
+    },
+    {
+        "name": "sidhant kumar",
+        "age": 21,
+        "email": "sidhantmodi@gmail.com",
+        "pin": 2451,
+        "accountNo.": "96RD1s@",
+        "balance": 0
+    },
+    {
+        "name": "sidhant kumar",
+        "age": 21,
+        "email": "sidhantmodi@gmail.com",
+        "pin": 1034,
+        "accountNo": "16RJ9$Y",
+        "balance": 0
+    }
+]
