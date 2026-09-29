@@ -1,7 +1,14 @@
-text = "abcdefghaabbssggttthhddkk"
-length =len(text)
-count =0;
-for i in range(length):
-  if(text[i]=="a"):
-    count+=1
-print(count);
+
+# FREQUENCY OF CHARACTER
+
+text = input("Enter a string: ")
+
+count = {}
+
+for char in text:
+    if char in count:
+        count[char] += 1
+    else:
+        count[char] = 1
+
+print(count)  
